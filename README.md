@@ -1,0 +1,1 @@
+This is a simple nokogiri script that parses the Engine Yard job board and opens up the URL for a random job that I will mention in one of the upcoming Engine Yard Cloud Out Loud podcasts.
